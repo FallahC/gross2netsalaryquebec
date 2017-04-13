@@ -2,11 +2,11 @@
 
 using namespace std;
 
-/*Variables*/
+// Variables
 
 float gross, net; 
 
-/*Taxes will be deduced from the gross salary according to Quebec's taxable income rates.*/
+//Taxes will be deduced from the gross salary according to Quebec's taxable income rates.
 
 int main(){
     cout << "Please input your yearly gross salary without spaces.\n";
